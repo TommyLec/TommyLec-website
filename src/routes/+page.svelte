@@ -162,9 +162,9 @@
 <section id="projects" class="container mx-auto mt-30">
 	<h1 class="my-5 text-center text-3xl font-bold text-[#009688]">Projets</h1>
 	<div class="grid gap-5 md:grid-cols-3">
-		<Project title="SelfKit" img="selfkit.png" href="https://selfkit.fr" />
-		<Project title="Lyky website" img="lyky.png" href="" />
-		<Project title="Klape website" img="klape.png" href="" />
+		<Project title="SelfKit" img="selfkit.png" href="https://selfkit.dev" />
+		<Project title="Lyky website" img="lyky.png" href="https://practical-mirzakhani-12aa0d.netlify.app/" />
+		<Project title="Klape website" img="klape.png" href="https://zealous-mclean-b50936.netlify.app/" />
 	</div>
 </section>
 
