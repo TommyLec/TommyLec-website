@@ -19,5 +19,6 @@
 <style>
 	:global(html) {
 		scroll-behavior: smooth;
+		color: #90a1b9;
 	}
 </style>
